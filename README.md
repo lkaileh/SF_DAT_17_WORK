@@ -1,2 +1,2 @@
 # SF_DAT_17_WORK
-Classwork
+Classwork for Data Science Course.
