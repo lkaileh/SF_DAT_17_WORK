@@ -1,0 +1,10 @@
+Project Milestone - 9/30
+
+-What will happen to single-family home prices in the San Francisco Bay Area if the Federal Reserve increases its Federal funds rate by the end of the year?
+-I have the Federal Reserve Data on the economy weekly since 1984 and monthly since 1950.  I also have access to Zillow data monthly since 1996.  
+-The data is intact for the most part, but it’s in disparate lists of time-series data which need to be aggregated and lined up by time.
+-I am interested in this topic because I am thinking about buying a house and I’d like to know when would potentially be the best time to buy.
+
+Not sure if the above will work for the purposes of the assignment because the response is known (rate goes up) and its the unknown predictors which can bias that outcome if not selected properly.  I had a few other abstract ideas, but thought the above best fit this assignment.  
+
+
